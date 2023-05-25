@@ -1,7 +1,7 @@
 # Todo-list-using-EJS-and-Express
 
 This app is made using EJS(Embedded JavaScript) and NodeJS. Styling is done through CSS(Cascaded Style Sheet). 
-Through This website you can easily maintain the todolist for your daily work easily. On completion of your work you can mark them completed easily. 
+Through This website you can easily maintain the todolist for your daily work easily. 
 
  ## Steps to Run Locally
  
